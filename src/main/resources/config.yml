@@ -1,0 +1,6 @@
+Token: TOKENHERE
+
+PluginMessages:
+  NoPermission: '&8&oShortr: &7You don''t have permissions to do this!'
+  Reloaded: '&8&oShortr: &7Plugin has been reloaded!'
+  InvalidArgument: '&8&oShortr: &7The arguments you specified are invalid.'

@@ -1,0 +1,9 @@
+name: Shortr
+description: The solution for long links
+version: 2.0
+main: me.kyllian.shortr.ShortrPlugin
+
+commands:
+  shortr:
+    usage: /<command>
+    description: Base command of the plugin
